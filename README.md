@@ -36,7 +36,7 @@
 
 <h3> 📈 &nbsp;Commit Stats</h3>
 
-<a href="https://github.com/sahilverma-dev">
+<a href="https://github.com/iamsuyashh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsuyashh&show_icons=true&theme=react" />
   <img height="180em" src="https://streak-stats.demolab.com?user=iamsuyashh&theme=react" alt="GitHub Streak" />
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-<a href="https://github.com/sahilverma-dev">
+<a href="https://github.com/iamsuyashh">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=iamsuyashh&theme=react-dark" />
 </a>
 
