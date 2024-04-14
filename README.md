@@ -1,4 +1,4 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Suyash Labde.</h2>
 
