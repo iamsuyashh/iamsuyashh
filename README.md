@@ -59,5 +59,6 @@
   <a href="https://www.instagram.com/itsssuyashh._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-itsssuyashh._-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:suyashlabde123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-suyashlabde123@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://linktr.ee/iam_suyashh"><img alt="Email" src="https://img.shields.io/badge/Linktree-itsssuyashh._-blue?style=flat-square&logo=linktree"></a>
-  
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamsuyashh&label=Profile%20views&color=0e75b6&style=flat" alt="iamsuyashh" /> </p>
