@@ -14,6 +14,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
@@ -23,6 +24,7 @@
   ![MongoD](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=MongoDB)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+  ![Figma](https://img.shields.io/badge/-Figma-333?logo=figma)
   ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
