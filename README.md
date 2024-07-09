@@ -22,6 +22,7 @@
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
   ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
   ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=Python)
+  ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=C++)
 - 📶 &nbsp;
   ![MongoD](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=MongoDB)
 - ⚙️ &nbsp;
